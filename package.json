@@ -1,0 +1,14 @@
+{
+  "name": "session-logs",
+  "version": "1.0.0",
+  "description": "Search and analyze your own session logs (older/parent conversations) using jq.",
+  "author": "OpenClaw Team",
+  "license": "MIT",
+  "created": "2026-02-23T11:46:00.706023",
+  "type": "system-skill",
+  "files": [
+    "SKILL.md"
+  ],
+  "file_count": 1,
+  "source": "OpenClaw Official"
+}
